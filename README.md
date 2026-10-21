@@ -58,10 +58,11 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 
 > *"It stopped when I closed my laptop."*
 
-- Every project gets **its own computer**. Up to 1 TB.
+- Every project runs on a **fast Linux VM**. It's **fully yours**. Up to 1 TB.
+- Chat on the left, **project files** open on the right.
 - Close your laptop. **Work keeps going.**
 
-<img src=".github/assets/screenshots/storage.jpg" alt="Your project runs in the cloud" width="100%">
+<img src=".github/assets/screenshots/chat-files.jpg" alt="Chat with project files open on the side" width="100%">
 
 → [Docs](docs/features/projects-and-cloud-computer.md)
 
@@ -83,7 +84,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Agents and people on **one board**.
 - See what's running, done, or waiting on you.
 
-<img src=".github/assets/screenshots/tasks-desktop.jpg" alt="Every task on one board" width="100%">
+<img src=".github/assets/screenshots/tasks-desktop.jpg" alt="Every task on one board" width="45%">
 
 → [Docs](docs/features/tasks.md)
 
