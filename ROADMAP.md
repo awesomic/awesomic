@@ -15,7 +15,7 @@ Dates marked **TBD** aren't fixed yet. We'll update this page and the pinned iss
 ## What stays the same after the code drop
 
 - This repository: same URL, same issues, same stars.
-- Downloads keep living on the [Releases](https://github.com/awesomic/awesomic/releases) page.
+- Downloads stay on the [download page](https://studio.awesomic.com/download).
 - Bug reports and feature requests keep using the same templates.
 
 ## What we haven't decided yet

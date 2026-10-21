@@ -7,13 +7,13 @@
 <p>One place to manage intelligence — human and AI — for you or your whole team.<br>Make sites, decks, apps, ads and videos. From your laptop or your phone.</p>
 
 <p>
-  <a href="https://github.com/awesomic/awesomic/releases/latest"><img alt="Download for macOS" src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/awesomic/awesomic/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
-  <a href="https://github.com/awesomic/awesomic/releases/latest"><img alt="Download for Linux" src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Download for macOS" src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Download for Linux" src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   <br>
-  <a href="https://awesomic.com"><img alt="Get it for iOS" src="https://img.shields.io/badge/iOS-Get_the_app-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://awesomic.com"><img alt="Get it for Android" src="https://img.shields.io/badge/Android-Get_the_app-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-  <a href="https://awesomic.com"><img alt="Open in browser" src="https://img.shields.io/badge/Web-Open_in_browser-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Get it for iOS" src="https://img.shields.io/badge/iOS-Get_the_app-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Get it for Android" src="https://img.shields.io/badge/Android-Get_the_app-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="https://studio.awesomic.com/download"><img alt="Open in browser" src="https://img.shields.io/badge/Web-Open_in_browser-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 <p>

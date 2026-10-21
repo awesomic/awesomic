@@ -14,7 +14,7 @@ The biggest Awesomic release yet.
 - 🎯 **Top experts on demand.**
 - 📱 **Apps for Mac, Windows, Linux, iOS, Android and Web.**
 
-📥 [Download](https://github.com/awesomic/awesomic/releases/latest)
+📥 [Download](https://studio.awesomic.com/download)
 
 ---
 
