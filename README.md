@@ -33,18 +33,6 @@
 
 <img src=".github/assets/screenshots/recents-header.jpg" alt="Awesomic home: activity and the prompt box" width="100%">
 
-## 🔥 Sound familiar?
-
-It's 7 PM. A client texts: *"need the Times Square ad tonight. + site + ads??"*
-
-- 😩 **Ten AI tabs** open. None talk to each other.
-- 🧩 Every tool wants **its own setup**.
-- 🧑‍🤝‍🧑 Your team **can't see** what the AI did.
-- ⏳ The AI **stops** when you close your laptop.
-- 🎨 Some things still need a **real pro**.
-
-**Awesomic fixes all of that in one app.**
-
 ## 🚀 Steps: get started in 60 seconds
 
 1. **Download** the app above. Or open it in your browser.
@@ -55,68 +43,90 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 
 ## ✨ What you get
 
-| | The pain | How Awesomic fixes it |
-|:---:|---|---|
-| 🤖 | "Which AI is best for this?" | **Any agent, any model.** Pick per task. |
-| ☁️ | "It stopped when I closed my laptop." | **A cloud computer per project.** Always on. |
-| 👥 | "My team can't see the AI work." | **One shared chat** for team and agents. |
-| ✅ | "Too many things to track." | **One task board** for agents and people. |
-| 🔌 | "I still do the boring part." | **1000+ apps.** Agents work inside your tools. |
-| 🎯 | "It needs a human touch." | **Top experts on demand.** |
-| 📱 | "I'm not at my desk." | **Phone, desktop, web.** |
-
 ### 🤖 Any agent. Any model.
+
+> *"Which AI is best for this?"*
 
 - Use **Claude, ChatGPT / Codex, Cursor, Claude Code** or your own MCP.
 - Big job? A lead agent splits it across a **team of agents**.
+
+<img src=".github/assets/screenshots/model-picker.jpg" alt="Any agent. Any model" width="100%">
 
 → [Docs](docs/features/agents-and-models.md)
 
 ### ☁️ Your project runs in the cloud
 
+> *"It stopped when I closed my laptop."*
+
 - Every project gets **its own computer**. Up to 1 TB.
 - Close your laptop. **Work keeps going.**
+
+<img src=".github/assets/screenshots/storage.jpg" alt="Your project runs in the cloud" width="100%">
 
 → [Docs](docs/features/projects-and-cloud-computer.md)
 
 ### 👥 Team and agents, in one chat
 
+> *"My team can't see the AI work."*
+
 - Share a project with a link.
 - Everyone talks to the **same agents** in the **same chat**.
+
+<img src=".github/assets/screenshots/chat-team.jpg" alt="Team and agents, in one chat" width="100%">
 
 → [Docs](docs/features/team-and-experts.md)
 
 ### ✅ Every task on one board
 
+> *"Too many things to track."*
+
 - Agents and people on **one board**.
 - See what's running, done, or waiting on you.
+
+<img src=".github/assets/screenshots/tasks-desktop.jpg" alt="Every task on one board" width="100%">
 
 → [Docs](docs/features/tasks.md)
 
 ### 🔌 1000+ apps
 
+> *"I still do the boring part."*
+
 - Connect GitHub, Slack, Google, ad accounts and more.
 - Agents work **inside** your tools.
+
+<img src=".github/assets/screenshots/apps.jpg" alt="1000+ apps" width="100%">
 
 → [Docs](docs/features/apps-and-integrations.md)
 
 ### 👀 Preview and publish
 
+> *"I keep copy-pasting to see the result."*
+
 - Live preview next to the chat. Comment on the page.
 - **Publish** in one click.
+
+<img src=".github/assets/screenshots/serein-preview.jpg" alt="Preview and publish" width="100%">
 
 → [Docs](docs/features/preview-and-publish.md)
 
 ### 🎯 Top experts, when it matters
 
+> *"It needs a human touch."*
+
 - Need a human finish? Add an **Awesomic expert**.
 - Top 0.82% of talent. Matched in 24 hours.
+
+<img src=".github/assets/screenshots/talent-task.jpg" alt="Top experts, when it matters" width="100%">
 
 → [Docs](docs/features/team-and-experts.md)
 
 ### 📱 Start on your phone
 
+> *"I'm not at my desk."*
+
 - Same project on **phone, desktop and web**.
+
+<img src=".github/assets/screenshots/prompt-phone.jpg" alt="Start on your phone" width="40%">
 
 → [Docs](docs/features/mobile.md)
 
