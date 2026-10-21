@@ -1,0 +1,90 @@
+# Label definitions. Sync with e.g. github.com/EndBug/label-sync or crazy-max/ghaction-github-labeler.
+# Type
+- name: bug
+  color: d73a4a
+  description: Something isn't working
+- name: enhancement
+  color: a2eeef
+  description: New feature or improvement
+- name: question
+  color: d876e3
+  description: How do I ...?
+- name: docs
+  color: 0075ca
+  description: Docs and repo files
+- name: show-and-tell
+  color: 7057ff
+  description: Something made with Awesomic
+# Status
+- name: needs-triage
+  color: fbca04
+  description: Not reviewed by the team yet
+- name: confirmed
+  color: 0e8a16
+  description: Reproduced or accepted
+- name: in-progress
+  color: 1d76db
+  description: Someone is working on it
+- name: shipped
+  color: 2ea44f
+  description: Released in the app
+- name: duplicate
+  color: cfd3d7
+  description: Already reported
+- name: wontfix
+  color: ffffff
+  description: Not planned
+- name: needs-info
+  color: f9d0c4
+  description: Waiting for details from the reporter
+# Platform
+- name: "platform: web"
+  color: c5def5
+  description: Browser or PWA
+- name: "platform: desktop"
+  color: c5def5
+  description: macOS, Windows or Linux app
+- name: "platform: ios"
+  color: c5def5
+  description: iPhone and iPad
+- name: "platform: android"
+  color: c5def5
+  description: Android app
+# Area
+- name: "area: projects"
+  color: bfdadc
+  description: Projects and the cloud computer
+- name: "area: agents"
+  color: bfdadc
+  description: Chat, agents and models
+- name: "area: team"
+  color: bfdadc
+  description: Sharing, teammates and experts
+- name: "area: preview"
+  color: bfdadc
+  description: Preview, comments and publishing
+- name: "area: files"
+  color: bfdadc
+  description: Files and brand
+- name: "area: apps"
+  color: bfdadc
+  description: Apps, integrations and MCP
+- name: "area: explore"
+  color: bfdadc
+  description: Explore and skills
+- name: "area: tasks"
+  color: bfdadc
+  description: Tasks and the board
+- name: "area: admin"
+  color: bfdadc
+  description: Usage, budgets and settings
+# Open source
+- name: open-source
+  color: 5319e7
+  description: About the November 2026 code release
+- name: good first issue
+  color: 7057ff
+  description: Good for newcomers (used after the code release)
+- name: help wanted
+  color: 008672
+  description: We'd welcome help with this

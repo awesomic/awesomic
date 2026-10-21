@@ -1,0 +1,75 @@
+name: Bug report
+description: Something in Awesomic doesn't work the way it should.
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. A clear report helps us fix it faster.
+        Found a security issue? Please don't post it here — see [SECURITY.md](https://github.com/awesomic/awesomic/blob/main/SECURITY.md).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem in a few sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a project
+        2. Ask the agent to ...
+        3. Click ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - Web
+        - Desktop (macOS)
+        - Desktop (Windows)
+        - Desktop (Linux)
+        - iOS
+        - Android
+        - PWA (installed web app)
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and version
+      description: Only for Web or PWA.
+      placeholder: "Chrome 141, Safari 26, Firefox 144 ..."
+  - type: input
+    id: agent-model
+    attributes:
+      label: Agent and model
+      description: Which agent and model were you using, if it matters?
+      placeholder: "Claude Code · Opus 5.5, Codex, Cursor, own MCP ..."
+  - type: input
+    id: project-link
+    attributes:
+      label: Project or chat link (optional)
+      description: Only share links you're comfortable with our team opening. Never paste passwords or API keys.
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or recordings
+      description: Drag and drop images or videos here. Blur anything private.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Error messages, how often it happens, when it started.

@@ -1,0 +1,60 @@
+name: Feature request
+description: Suggest an idea or an improvement for Awesomic.
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search [existing issues](https://github.com/awesomic/awesomic/issues?q=is%3Aissue) first — if someone already asked, add a 👍 there instead.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the job or the problem, not only the solution.
+      placeholder: "When I hand a task to an expert, I want to ..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would help?
+      description: How you imagine it working.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you handle it today?
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Projects and cloud computer
+        - Chat, agents and models
+        - Team, sharing and experts
+        - Preview and publish
+        - Files and brand
+        - Apps, integrations and MCP
+        - Explore and skills
+        - Tasks and board
+        - Mobile
+        - Admin, usage and billing
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: who
+    attributes:
+      label: How do you use Awesomic?
+      options:
+        - On my own
+        - In a team
+        - As an expert / contractor
+        - Not yet, just exploring
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Examples, screenshots, links to similar tools.

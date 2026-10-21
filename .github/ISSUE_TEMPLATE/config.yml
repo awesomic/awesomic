@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/awesomic/awesomic/blob/main/SECURITY.md
+    about: Please report security issues privately, not as a public issue.
+  - name: Questions and help
+    url: https://awesomic.com
+    about: Ask how to do something or get help with your account.
+  - name: Join the Awesomic team
+    url: https://www.awesomic.com/hiring
+    about: Want to build Awesomic with us? We're hiring.
