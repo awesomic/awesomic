@@ -31,7 +31,7 @@
 
 > **TL;DR** One app where **AI agents and people** make sites, decks, apps, ads and videos together.
 
-<img src=".github/assets/screenshots/recents-header.jpg" alt="Awesomic home: activity and the prompt box" width="100%">
+<img src=".github/assets/gifs/tasktypes.gif" alt="One flow for a landing page, a pitch deck, an app, a video and a brand kit" width="100%">
 
 ## 🚀 Steps: get started in 60 seconds
 
@@ -62,7 +62,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Chat on the left, **project files** open on the right.
 - Close your laptop. **Work keeps going.**
 
-<img src=".github/assets/screenshots/chat-files.jpg" alt="Chat with project files open on the side" width="100%">
+<img src=".github/assets/gifs/computer.gif" alt="Project files, a long background run, scheduled tasks and sharing" width="100%">
 
 → [Docs](docs/features/projects-and-cloud-computer.md)
 
@@ -73,7 +73,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Share a project with a link.
 - Everyone talks to the **same agents** in the **same chat**.
 
-<img src=".github/assets/screenshots/chat-team.jpg" alt="Team and agents, in one chat" width="100%">
+<img src=".github/assets/gifs/control.gif" alt="Every prompt your team writes, a chat saved as a team skill, and per-person budgets and models" width="100%">
 
 → [Docs](docs/features/team-and-experts.md)
 
@@ -84,7 +84,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Agents and people on **one board**.
 - See what's running, done, or waiting on you.
 
-<img src=".github/assets/screenshots/tasks-desktop.jpg" alt="Every task on one board" width="45%">
+<img src=".github/assets/gifs/workflows.gif" alt="From a trend in Explore to a video, a site, an expert task and the team board" width="100%">
 
 → [Docs](docs/features/tasks.md)
 
@@ -95,7 +95,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Connect GitHub, Slack, Google, ad accounts and more.
 - Agents work **inside** your tools.
 
-<img src=".github/assets/screenshots/apps.jpg" alt="1000+ apps" width="100%">
+<img src=".github/assets/gifs/office.gif" alt="Apps, a shared keychain and every top model in one composer" width="100%">
 
 → [Docs](docs/features/apps-and-integrations.md)
 
@@ -117,7 +117,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 - Need a human finish? Add an **Awesomic expert**.
 - Top 0.82% of talent. Matched in 24 hours.
 
-<img src=".github/assets/screenshots/talent-task.jpg" alt="Top experts, when it matters" width="100%">
+<img src=".github/assets/gifs/experts.gif" alt="Hand a task to a vetted expert who delivers in the same project" width="100%">
 
 → [Docs](docs/features/team-and-experts.md)
 
@@ -127,7 +127,7 @@ New here? Read [Start your first generation](docs/guides/first-generation.md).
 
 - Same project on **phone, desktop and web**.
 
-<img src=".github/assets/screenshots/prompt-phone.jpg" alt="Start on your phone" width="40%">
+<img src=".github/assets/gifs/mobile.gif" alt="Explore, prompt and a new task coming to life on the phone" width="40%">
 
 → [Docs](docs/features/mobile.md)
 
